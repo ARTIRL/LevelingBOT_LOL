@@ -23,6 +23,7 @@ This bot automates gameplay in League of Legends, allowing you to farm experienc
 ### 1. Download the Executable
 
 Download the bot as an executable file.(That by downloading the ZIP file on ur desktop then unzip it)
+All files should be on your desktop.
 
 ### 2. Prepare Your Setup
 

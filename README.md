@@ -7,7 +7,7 @@ This bot automates gameplay in League of Legends, allowing you to farm experienc
 - Automates champion selection, gameplay, and post-game processes.
 - Uses any available free champion, no in-game purchases required.
 - Optimized for low-power consumption with minimal resource usage.
-- Avoids detection and banning by Vanguard (FOR NOW!), but usage is at your own risk.
+- Avoids detection and banning by Vanguard (FOR NOW!), but use it at your own risk.
 
 ## System Requirements
 
@@ -22,8 +22,7 @@ This bot automates gameplay in League of Legends, allowing you to farm experienc
 
 ### 1. Download the Executable
 
-Download the bot as an executable file.(That by downloading the ZIP file on ur desktop then unzip it)
-All files should be on your desktop.
+Download the bot as an executable file.
 
 ### 2. Prepare Your Setup
 
@@ -60,6 +59,7 @@ All files should be on your desktop.
 ### 5. Issues and Requests
 
 This project is open to issues and requests. If you encounter any problems or have suggestions for improvements, feel free to submit them via GitHub.
+
 
 ---
 ### USE AT YOUR OWN RISK!

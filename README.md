@@ -11,12 +11,13 @@ This bot automates gameplay in League of Legends, allowing you to farm experienc
 
 ## System Requirements
 
-- **Operating System:** Windows with English locale (currently, the bot is designed to work only on systems with an English OS).
+- **Operating System:** Windows with English (currently, the bot is designed to work only on systems with an English OS).
 - **Screen Resolution:** 1920x1080 (Full HD).
 - **In-Game Settings:** 
   - **Mode:** Windowed
   - **Quality Settings:** Set to the lowest possible for power efficiency.(Optional)
   - **Attack Move Click:** Bind to the **Space** key.
+- **Game Language:** English and please stay logged on.
 
 ## Setup Instructions
 
@@ -35,7 +36,7 @@ Download the bot as an executable file.
 
 3. **Screen Settings:**
    - **Screen Resolution:** Set your screen resolution to 1920x1080.
-   - **Client Resolution:** Configure the game to run in windowed mode at 1024x576 resolution.
+   - **Client Resolution:** Configure the client to run in windowed mode at 1024x576 resolution.
 
 4. **In-Game Settings:**
    - **Quality Settings:** Set all settings to low for reduced power consumption.
@@ -64,4 +65,5 @@ This project is open to issues and requests. If you encounter any problems or ha
 ---
 ### USE AT YOUR OWN RISK!
 
-By following these instructions, you should be able to set up and use the League of Legends bot effectively. Enjoy(while you don't get banned ig!
+By following these instructions, you should be able to set up and use the League of Legends bot effectively. Enjoy(while you don't get banned ig!)
+

@@ -61,6 +61,8 @@ Download the bot as an executable file.
 
 This project is open to issues and requests. If you encounter any problems or have suggestions for improvements, feel free to submit them via GitHub.
 
+I'd like everyone who used the bot to comment his experience with the bot so we improve the quality for next version.
+
 
 ---
 ### USE AT YOUR OWN RISK!

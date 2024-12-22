@@ -37,6 +37,7 @@ Download the bot as an executable file.
 3. **Screen Settings:**
    - **Screen Resolution:** Set your screen resolution to 1920x1080.
    - **Client Resolution:** Configure the client to run in windowed mode at 1024x576 resolution.
+   - **Hud** : Make sure the HUD is adjusted to the minimum size.
 
 4. **In-Game Settings:**
    - **Quality Settings:** Set all settings to low for reduced power consumption.

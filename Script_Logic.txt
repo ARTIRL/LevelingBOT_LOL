@@ -1,0 +1,24 @@
+def main():
+    start_league()
+    print("Please wait 32 Seconds for loading :D") # Most pcs take around 20 seconds for the client opening (please keep yourself logged in)
+    click_play()
+    select_bot_queue()
+    find_match()
+    
+    while True:
+            # Continuously monitor and accept matches if in queue
+            while inqueue():
+                accept_match()
+                
+            # Once out of queue, proceed with game actions
+            select()                   #The selection
+            if game_loading():     #Game start time to do actions
+                
+                while not gamefinish():
+                  wander()    #Wanderin in map
+                  time.sleep(5)
+                time.sleep(50)  
+                levelup()  #Checks if there is the level up icon to click it
+                nextgame() #Starts a new game  
+                find_match()  #clicks find match 
+#Repeat!

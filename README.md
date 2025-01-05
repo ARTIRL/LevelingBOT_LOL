@@ -40,7 +40,7 @@ Download the bot as an executable file.
 4. **In-Game Settings:**
    - **Quality Settings:** Set all settings to low for reduced power consumption.
    - **Attack Move Click:** Bind this action to the **Space** key.
-
+   - **Hud Size:** 0%.
 5. **Screen Always On:**
    - Ensure your screen stays on, especially if running the bot overnight. The bot does not function correctly if the screen turns off.
 

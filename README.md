@@ -1,4 +1,4 @@
-# LeveleingBOT_LOL developed by ArtIRL - CS Engineering Student & Master EU Adc 
+# LeveleingBOT_LOL
 
 This bot automates gameplay in League of Legends, allowing you to farm experience and levels without manual intervention. It's designed to work with minimal setup and efficiently run on low-power systems.
 CURRENTLY 0% BAN RATE!
@@ -54,7 +54,10 @@ Download the bot as an executable file.
 
 - **Operating System Compatibility:** Currently, the bot only supports PCs with an English OS. If your OS is in another language, the bot may not function correctly.
 - **Screen Path Issue:** Ensure that all required files (including the League of Legends shortcut and the `Images` folder) are placed on your desktop. If your system uses a different language, this may cause issues.
-- **Risk of Banning:** While the bot is not currently detected by Vanguard, using third-party software always carries a risk of getting banned. Use the bot at your own risk. The developers are not responsible for any bans or penalties.
+- **Risk of Banning:** While the bot is not currently detected by Vanguard, using third-party software always carries a risk of getting banned. Use the bot at your own risk. The developer is not responsible for any bans or penalties.
+- **Improvements :** The bot is open to requests of improvements, your feedback means a lot to the dev. Make sure to leave a star if the bot met your needs.
+- **Dev :** This bot has been developed by Artirl - A CS Engineering Student and a Master EU Adc - for his personal use in a "short time" and decided to make it free and accessible for everyone else.
+-  **[Updates might be delayed due to the strict college schedule please be patient]** 
 
 ### 5. Issues and Requests
 

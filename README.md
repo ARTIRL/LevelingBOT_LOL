@@ -1,7 +1,7 @@
 # League of Legends Bot
 
 This bot automates gameplay in League of Legends, allowing you to farm experience and levels without manual intervention. It's designed to work with minimal setup and efficiently run on low-power systems.
-
+CURRENTLY 0% BAN RATE!
 ## Features
 
 - Automates champion selection, gameplay, and post-game processes.

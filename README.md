@@ -34,7 +34,7 @@ Download the bot as an executable file.
 
 2. **Download Images Folder:**
    - Download the `Images` folder containing the necessary images for the bot to function.
-   - Place this folder on your desktop.
+   - Place this folder on your desktop. { You can simply go to PC > C: > Users > Your name > Desktop  then paste your folder there }
 
 3. **Screen Settings:**
    - **Screen Resolution:** Set your screen resolution to 1920x1080.

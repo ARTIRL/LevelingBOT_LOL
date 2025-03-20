@@ -15,7 +15,7 @@ https://discord.gg/sBYh8cpnEQ
 
 ## System Requirements
 
-- **Operating System:** Windows with English locale (currently, the bot is designed to work only on systems with an English OS).
+- **Operating System:** Windows(pref English).
 - **Screen Resolution:** 1920x1080 (Full HD).
 - **In-Game Settings:** 
   - **Mode:** Windowed
@@ -38,8 +38,8 @@ Download the bot as an executable file.
    - Place this folder on your desktop. { You can simply go to PC > C: > Users > Your name > Desktop  then paste your folder there }
 
 3. **Screen Settings:**
-   - **Screen Resolution:** Set your screen resolution to 1920x1080.
-   - **Client Resolution:** Configure the game to run in windowed mode at 1024x576 resolution.
+   - **Screen Resolution:** Set your screen resolution to 1920x1080 windowed.
+   - **Client Resolution:** Configure the client 1024x576 resolution.
 
 4. **In-Game Settings:**
    - **Quality Settings:** Set all settings to low for reduced power consumption.
@@ -56,7 +56,7 @@ Download the bot as an executable file.
 
 ### 4. Notes and Warnings
 
-- **Operating System Compatibility:** Currently, the bot only supports PCs with an English OS. If your OS is in another language, the bot may not function correctly.
+- **Operating System Compatibility:**If your OS is in another language, the bot may not function correctly.
 - **Screen Path Issue:** Ensure that all required files (including the League of Legends shortcut and the `Images` folder) are placed on your desktop. If your system uses a different language, this may cause issues.
 - **Risk of Banning:** While the bot is not currently detected by Vanguard, using third-party software always carries a risk of getting banned. Use the bot at your own risk. The developer is not responsible for any bans or penalties.
 - **Improvements :** The bot is open to requests of improvements, your feedback means a lot to the dev. Make sure to leave a star if the bot met your needs.
@@ -67,6 +67,7 @@ Download the bot as an executable file.
 
 This project is open to issues and requests. If you encounter any problems or have suggestions for improvements, feel free to submit them via GitHub.
 
+Thanks to everyone on discord server suggesting improvements and fixes
 
 ---
 ### USE AT YOUR OWN RISK!

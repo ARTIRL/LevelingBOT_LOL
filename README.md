@@ -2,6 +2,8 @@
 
 This bot automates gameplay in League of Legends, allowing you to farm experience and levels without manual intervention. It's designed to work with minimal setup and efficiently run on low-power systems.
 CURRENTLY 0% BAN RATE!
+CHECK PRE-RELEASE (Latest update for testing) : https://github.com/ARTIRL/LevelingBOT_LOL/releases/tag/2.0
+
 
 ## Discord server community :
 https://discord.gg/sBYh8cpnEQ

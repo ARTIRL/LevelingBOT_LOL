@@ -73,4 +73,5 @@ Thanks to everyone on discord server suggesting improvements and fixes
 ---
 ### USE AT YOUR OWN RISK!
 
-By following these instructions, you should be able to set up and use the League of Legends bot effectively. Enjoy(while you don't get banned ig!
+### Integrity Hash : 58f5c1175a7476d42e65eb669f59834b91a97832209dbd8c15c4b1cc70602016. SHA256
+

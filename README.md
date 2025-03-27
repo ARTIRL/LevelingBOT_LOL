@@ -75,5 +75,5 @@ Thanks to everyone on discord server suggesting improvements and fixes
 ---
 ### USE AT YOUR OWN RISK!
 
-### Integrity Hash : 2f973d38c063de0002130acaf44de87a8a52c46bcc1d25f432e116ffcb00b559. SHA256
+### Integrity Hash : 23d68f2e36465a7f64becf60c6d706a2e57dcec7bffe425b0d1c800c9d83f6db. SHA256
 

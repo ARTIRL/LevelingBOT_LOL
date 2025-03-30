@@ -1,9 +1,10 @@
-# LeveleingBOT_LOL
+# LeagueWanderer2.1
 
 This bot automates gameplay in League of Legends, allowing you to farm experience and levels without manual intervention. It's designed to work with minimal setup and efficiently run on low-power systems.
 CURRENTLY 0% BAN RATE!
-CHECK PRE-RELEASE (Latest update for testing) : https://github.com/ARTIRL/LevelingBOT_LOL/releases/tag/2.0
+CHECK LATEST RELEASE: https://github.com/ARTIRL/LevelingBOT_LOL/releases/tag/2.1
 
+You can support this project with a star or maybe a donation (only and only if you can afford it) as long as you are satisfied!
 
 ## Discord server community :
 https://discord.gg/sBYh8cpnEQ
@@ -17,8 +18,8 @@ https://discord.gg/sBYh8cpnEQ
 
 ## System Requirements
 
-- **Operating System:** Windows(pref English).
-- **Screen Resolution:** 1920x1080 (Full HD).
+- **Operating System:** Windows and MacOS(Under testing).
+- **Screen Resolution:** 1920x1080 (Full HD) Scale 100%.
 - **In-Game Settings:** 
   - **Mode:** Windowed
   - **Quality Settings:** Set to the lowest possible for power efficiency.(Optional)
@@ -37,7 +38,7 @@ Download the bot as an executable file.
 
 2. **Download Images Folder:**
    - Download the `Images` folder containing the necessary images for the bot to function.
-   - Place this folder on your desktop. { You can simply go to PC > C: > Users > Your name > Desktop  then paste your folder there }
+   - Place this folder on your desktop. The bot will detect the user desktop path automatically from release 2.1.
 
 3. **Screen Settings:**
    - **Screen Resolution:** Set your screen resolution to 1920x1080 windowed.
@@ -47,7 +48,7 @@ Download the bot as an executable file.
    - **Quality Settings:** Set all settings to low for reduced power consumption.
    - **Attack Move Click:** Bind this action to the **Space** key.
    - **Hud Size:** 0%.
-   - **Camera:** Locked.
+     
 5. **Screen Always On:**
    - Ensure your screen stays on, especially if running the bot overnight. The bot does not function correctly if the screen turns off.
 
@@ -56,10 +57,10 @@ Download the bot as an executable file.
 1. Place the bot executable on your desktop.
 2. Double-click the executable to start the bot.
 3. The bot will automatically launch League of Legends, select a free champion, and start the game. It will also automate gameplay and post-game processes.
+4. Note that the bot wont be doing any complex gameplay!
 
 ### 4. Notes and Warnings
 
-- **Operating System Compatibility:**If your OS is in another language, the bot may not function correctly.
 - **Screen Path Issue:** Ensure that all required files (including the League of Legends shortcut and the `Images` folder) are placed on your desktop. If your system uses a different language, this may cause issues.
 - **Risk of Banning:** While the bot is not currently detected by Vanguard, using third-party software always carries a risk of getting banned. Use the bot at your own risk. The developer is not responsible for any bans or penalties.
 - **Improvements :** The bot is open to requests of improvements, your feedback means a lot to the dev. Make sure to leave a star if the bot met your needs.
@@ -73,7 +74,7 @@ This project is open to issues and requests. If you encounter any problems or ha
 Thanks to everyone on discord server suggesting improvements and fixes
 
 ---
-### USE AT YOUR OWN RISK!
+### Support me : Link to donations will drop soon as long as you guys can support this project!
 
-### Integrity Hash : 2f973d38c063de0002130acaf44de87a8a52c46bcc1d25f432e116ffcb00b559. SHA256
+### Integrity Hash : d5ba046d6398d740a2aae4ad85c48a1c78a15292725119220956b28502059914. SHA256
 

@@ -9,6 +9,9 @@ You can support this project with a star or maybe a donation (only and only if y
 ## Discord server community :
 https://discord.gg/sBYh8cpnEQ
 
+## Feedback Form :
+https://forms.gle/deKs797ViRymP5TB8
+
 ## Features
 
 - Automates champion selection, gameplay, and post-game processes.

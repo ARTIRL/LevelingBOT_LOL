@@ -79,5 +79,4 @@ Thanks to everyone on discord server suggesting improvements and fixes
 ---
 ### Support me : Link to donations will drop soon as long as you guys can support this project!
 
-### Integrity Hash : d5ba046d6398d740a2aae4ad85c48a1c78a15292725119220956b28502059914. SHA256
 

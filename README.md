@@ -23,7 +23,7 @@ https://forms.gle/deKs797ViRymP5TB8
 
 ## System Requirements
 
-- **Operating System:** Windows and MacOS(Under testing).
+- **Operating System:** Windows.
 - **Screen Resolution:** 1920x1080 (Full HD) Scale 100%.
 - **In-Game Settings:** 
   - **Mode:** Windowed

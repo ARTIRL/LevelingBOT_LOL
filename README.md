@@ -1,7 +1,6 @@
 # LeagueWanderer
 
 This bot automates gameplay in League of Legends, allowing you to farm experience and levels without manual intervention. It's designed to work with minimal setup and efficiently run on low-power systems.
-CURRENTLY 0% BAN RATE!
 CHECK LATEST RELEASE!
 
 You can find the number of downloads here : https://tooomm.github.io/github-release-stats/?username=artirl&repository=LevelingBOT_LOL
@@ -68,17 +67,10 @@ Download the bot as an executable file.
 
 - **Screen Path Issue:** Ensure that all required files (including the League of Legends shortcut and the `Images` folder) are placed on your desktop. If your system uses a different language, this may cause issues.
 - **Risk of Banning:** While the bot is not currently detected by Vanguard, using third-party software always carries a risk of getting banned. Use the bot at your own risk. The developer is not responsible for any bans or penalties.
-- **Improvements :** The bot is open to requests of improvements, your feedback means a lot to the dev. Make sure to leave a star if the bot met your needs.
-- **Dev :** This bot has been developed by Artirl - A CS Engineering Student and a Master EU Adc - for his personal use in a "short time" and decided to make it free and accessible for everyone else.
--  **[Updates might be delayed due to the strict college schedule please be patient]** 
 
 ### 5. Issues and Requests
 
 This project is open to issues and requests. If you encounter any problems or have suggestions for improvements, feel free to submit them via GitHub.
 
-Thanks to everyone on discord server suggesting improvements and fixes
-
----
-### Support me : Link to donations will drop soon as long as you guys can support this project!
 
 

@@ -1,11 +1,10 @@
 # LeagueWanderer
 
 This bot automates gameplay in League of Legends, allowing you to farm experience and levels without manual intervention. It's designed to work with minimal setup and efficiently run on low-power systems.
-CHECK LATEST RELEASE!
+
+Use at your own risk. Botting violates rules of Riot Games and can potentially get you Hwid banned.
 
 You can find the number of downloads here : https://tooomm.github.io/github-release-stats/?username=artirl&repository=LevelingBOT_LOL
-
-You can support this project with a star or maybe a donation (only and only if you can afford it) as long as you are satisfied!
 
 ## Discord server community :
 https://discord.gg/sBYh8cpnEQ
@@ -18,7 +17,6 @@ https://forms.gle/deKs797ViRymP5TB8
 - Automates champion selection, gameplay, and post-game processes.
 - Uses any available free champion, no in-game purchases required.
 - Optimized for low-power consumption with minimal resource usage.
-- Avoids detection and banning by Vanguard (FOR NOW!), but use it at your own risk.
 
 ## System Requirements
 

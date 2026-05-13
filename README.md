@@ -6,12 +6,6 @@ Use at your own risk. Botting violates rules of Riot Games and can potentially g
 
 You can find the number of downloads here : https://tooomm.github.io/github-release-stats/?username=artirl&repository=LevelingBOT_LOL
 
-## Discord server community :
-https://discord.gg/sBYh8cpnEQ
-
-## Feedback Form :
-https://forms.gle/deKs797ViRymP5TB8
-
 ## Features
 
 - Automates champion selection, gameplay, and post-game processes.
